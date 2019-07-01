@@ -6,7 +6,7 @@
           <v-toolbar dark color="primary">
             <v-toolbar-title>
               Sign up for
-              <i>Workspaces?</i>
+              <i>?NoteSpace?</i>
             </v-toolbar-title>
             <v-spacer></v-spacer>
           </v-toolbar>

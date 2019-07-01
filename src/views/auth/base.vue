@@ -3,7 +3,7 @@
     <v-toolbar app title="test">
       <v-toolbar-title>
         Welcome back to
-        <i>Workspaces?</i>
+        <i>?NoteSpace?</i>
       </v-toolbar-title>
     </v-toolbar>
     <v-content>
