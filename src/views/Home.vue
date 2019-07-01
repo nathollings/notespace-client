@@ -2,7 +2,7 @@
   <v-container fluid>
     <v-slide-y-transition mode="out-in">
       <v-layout column align-center>
-        <v-btn>Go to Login</v-btn>
+        <v-btn to="auth/login">Go to Login</v-btn>
       </v-layout>
     </v-slide-y-transition>
   </v-container>
